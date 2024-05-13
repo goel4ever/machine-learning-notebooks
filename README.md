@@ -13,3 +13,7 @@ The notebooks are creating in Google Colab, using various learning resources.
 - k-Nearest Neighbors
 - Natural Language Processing (NLP)
 - TBD
+
+## Resources
+
+- [Natural Language Processing with Python](https://www.nltk.org/book/) is a great online free book, explaining NLP concepts
